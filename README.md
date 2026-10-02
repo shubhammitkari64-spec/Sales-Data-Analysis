@@ -11,3 +11,10 @@ Analyze sales data to understand total sales, product performance and monthly sa
 
 -Visualize Data
 
+## BUSINESS REQUIREMENT
+
+- Total Sales Revenue
+- Highest Product Sales
+- Month Highest Sale
+- count of Order placed
+- How are sales changing over time?
